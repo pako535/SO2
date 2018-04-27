@@ -1,0 +1,6 @@
+Pierwotnie grep był jednym z podstawowych programów wchodzących w skład
+systemu Unix, lecz współcześnie jest obecny praktycznie w każdym systemie
+ uniksopodobnym. Został napisany przez Kena Thompsona, który wyodrębnił go
+ jako samodzielny program z kodu źródłowego edytora o nazwie ed (również
+ przez niego stworzonego). grep po raz pierwszy pojawił się w Unix Wersja
+ 4 w roku 1973.
